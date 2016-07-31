@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO , WORLD ! ");
+            Console.WriteLine("HELLO , WORLD ! changes are done baby on the server");
             Console.WriteLine("another line from me");
         }
     }
